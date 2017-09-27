@@ -132,7 +132,7 @@ print_r($c);
    $flowers = array("Rose", "Sunflower", "Hibiscus", "Lotus");
 sort($flowers);
 foreach ($flowers as $key => $val) {
-    echo "flowers[" . $key . "] = " . $val . "n";
+    echo "flowers[" . $key . "] = " . $val . "\n";
 }
  
    echo '<hr>';
